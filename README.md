@@ -16,3 +16,5 @@ I use blender because is easy to edit STLs files, and i love it!
 
 These is a working in progress
 
+The Base file "Assemble_Blender_files_base.blend" you can edit it, but is a work in progress !!
+
